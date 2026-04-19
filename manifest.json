@@ -1,0 +1,26 @@
+{
+  "name": "Routine OS Pro",
+  "short_name": "Routine OS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090f",
+  "theme_color": "#00d4b8",
+  "description": "Routine OS - Smart daily planner",
+  "id": "/",
+  "orientation": "portrait",
+  "lang": "bn",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/himurahmanit12/routine-pwa/main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/himurahmanit12/routine-pwa/main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
